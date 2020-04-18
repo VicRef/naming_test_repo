@@ -1,1 +1,3 @@
 # naming_test_repo
+
+# test line 2. just after opening the file...
